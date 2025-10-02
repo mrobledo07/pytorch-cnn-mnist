@@ -8,7 +8,7 @@ Later, I plan to extend it by testing the model on digits written by myself, cre
 
 ## Use of LLMs for assistance
 
-I acknowledge the major role that LLMs play today in development, both for generating code and improving documentation. I will use them as a support tool in this project—for commands, PyTorch syntax, and general guidance—but always applying critical thinking and making sure I understand what I’m doing. The ultimate goal is to learn to carry out these tasks independently in the future.
+I acknowledge the major role that LLMs play today in development, both for generating code and improving documentation. I will use them as a support tool in this project, for commands, PyTorch syntax, and general guidance, but always applying critical thinking and making sure I understand what I’m doing. The ultimate goal is to learn to carry out these tasks independently in the future.
 
 *Miguel Robledo Kusz, October 3rd, 2025, 00:41.*
 
