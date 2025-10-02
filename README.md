@@ -46,3 +46,4 @@ conda activate pytorch-cnn-mnist
 conda install pytorch torchvision torchaudio cpuonly matplotlib -c pytorch
 ```
 
+**Author**: Miguel Robledo Kusz
